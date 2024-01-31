@@ -1,5 +1,4 @@
-## 만남은 쉽고 이별은 어려워 ~
-
+## 만남은 쉽고 이별은 어려워
 <!--
 
 **Here are some ideas to get you started:**
